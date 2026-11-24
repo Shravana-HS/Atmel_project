@@ -1,5 +1,6 @@
 # KiCad temporary, backup, lock, and cache files (v7/v8/v9/v10)
 *-backups/
+.history/
 *.000
 *.bak
 *.bck
