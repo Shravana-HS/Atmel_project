@@ -1,0 +1,18 @@
+# KiCad temporary, backup, lock, and cache files (v7/v8/v9/v10)
+*-backups/
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.lck
+*.tmp
+*_autosave-*
+*~
+fp-info-cache
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
