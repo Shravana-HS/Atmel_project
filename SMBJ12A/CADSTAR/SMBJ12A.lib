@@ -1,0 +1,16 @@
+.SMBJ12A :1 ;Littelfuse SMBJ12A Uni-Directional TVS Diode, 600W peak, 2-Pin DO-214AA
+DIONM5436X261N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN SMBJ12A
+~!Mouser Part Number (576-SMBJ12A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Littelfuse/SMBJ12A?qs=JJML70Qc14s9i3D6UUa43Q%3D%3D)
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (SMBJ12A)
+~!Link Datasheet (https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smbj_datasheet.pdf.pdf)
+~!Height (2.61mm)
+~!3D_Model (SMBJ12A)
+SMBJ12A
+1.1!U 2.1!U 

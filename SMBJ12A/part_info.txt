@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=SMBJ12A
+PartCategory=TVS Diode (Uni-directional)
+PackageCategory=Diodes Moulded Non Polarised
+PinCount=2
+Version=1.1
+Released=2019-08-03 09:01:44
+Downloaded=2026-11-26 10:05:40
+3D=Y
